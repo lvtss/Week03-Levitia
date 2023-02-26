@@ -11,19 +11,25 @@ import SwiftUI
 struct StoryView: View {
     var body: some View {
         VStack {
-            Text("My Story")
-                .font(.custom("ValkyBold", size: 42))
+            Text("The Story")
+                .font(.custom("ValkyBold", size: 40))
                 .font(.largeTitle)
                 .fontWeight(.bold)
-                .padding()
+                .padding(2)
             
             ScrollView {
+                Image(information.image02)
+                    .resizable()
+                    .aspectRatio(contentMode: .fit)
+                    
+                
                 Text(information.story)
+                    .font(.custom("SuisseIntl-Regular", size: 26))
                     .font(.body)
                     .padding()
             }
         }
-        .padding([.top, .bottom], 50)
+        .padding([.top, .bottom], 30)
     }
 }
 

@@ -15,7 +15,6 @@ struct HomeView: View {
 
     var body: some View {
         VStack {
-            
             Text("All About")
                 .font(.custom("Inter", size: 28))
                 //.font(.largeTitle)

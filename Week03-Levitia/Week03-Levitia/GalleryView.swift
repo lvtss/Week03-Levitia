@@ -22,7 +22,8 @@ struct GalleryView: View {
                 .font(.title)
                 .frame(minHeight: 400)
 
-            Button("Show Random Fact") {
+            Button("Show me random Hockney painting") {
+                
                 funFact = information.funFacts.randomElement()!
             }
         }
