@@ -27,6 +27,17 @@ struct StoryView: View {
                     .font(.custom("SuisseIntl-Regular", size: 26))
                     .font(.body)
                     .padding()
+                
+                Image(information.image03)
+                    .resizable()
+                    .aspectRatio(contentMode: .fit)
+                    
+                
+                Image(information.image04)
+                    .resizable()
+                    .aspectRatio(contentMode: .fit)
+                
+                
             }
         }
         .padding([.top, .bottom], 30)

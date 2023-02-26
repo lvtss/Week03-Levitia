@@ -22,6 +22,7 @@
 		3D7E3B7529AB0D4E00BAD197 /* SuisseIntl-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B7329AB0D4E00BAD197 /* SuisseIntl-Regular.ttf */; };
 		3D7E3B7629AB0D4E00BAD197 /* SuisseIntl-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B7429AB0D4E00BAD197 /* SuisseIntl-Light.ttf */; };
 		3D7E3B7829AB0FDA00BAD197 /* Times Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B7729AB0FDA00BAD197 /* Times Regular.ttf */; };
+		3D7E3B7A29ABC2D400BAD197 /* Random Hockney Paintings in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B7929ABC2D400BAD197 /* Random Hockney Paintings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		3D7E3B7329AB0D4E00BAD197 /* SuisseIntl-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SuisseIntl-Regular.ttf"; sourceTree = "<group>"; };
 		3D7E3B7429AB0D4E00BAD197 /* SuisseIntl-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SuisseIntl-Light.ttf"; sourceTree = "<group>"; };
 		3D7E3B7729AB0FDA00BAD197 /* Times Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Times Regular.ttf"; sourceTree = "<group>"; };
+		3D7E3B7929ABC2D400BAD197 /* Random Hockney Paintings */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Random Hockney Paintings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				3D7E3B5C29AAF38900BAD197 /* GalleryView.swift */,
 				3D7E3B5829AAF32D00BAD197 /* FavoritesView.swift */,
 				3D7E3B4C29AAEA3C00BAD197 /* Assets.xcassets */,
+				3D7E3B7929ABC2D400BAD197 /* Random Hockney Paintings */,
 				3D7E3B6529AB03B700BAD197 /* ProjectFonts */,
 				3D7E3B4E29AAEA3C00BAD197 /* Preview Content */,
 			);
@@ -172,6 +175,7 @@
 				3D7E3B7829AB0FDA00BAD197 /* Times Regular.ttf in Resources */,
 				3D7E3B6B29AB03B700BAD197 /* ValkySemibold.ttf in Resources */,
 				3D7E3B7629AB0D4E00BAD197 /* SuisseIntl-Light.ttf in Resources */,
+				3D7E3B7A29ABC2D400BAD197 /* Random Hockney Paintings in Resources */,
 				3D7E3B6929AB03B700BAD197 /* ValkyBold.ttf in Resources */,
 				3D7E3B6A29AB03B700BAD197 /* ValkyLight.ttf in Resources */,
 				3D7E3B5029AAEA3C00BAD197 /* Preview Assets.xcassets in Resources */,
