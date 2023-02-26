@@ -16,13 +16,9 @@ struct Info {
     let image04: String
     let name: String
     let story: String
-//    let hobbies: [String]
-//    let foods: [String]
-    //let colors: [Color]
+
     let gallery: [String]
-    
-    
-    //let image2 = UIImage(named: "MyImage")
+
 }
 
 let information = Info(

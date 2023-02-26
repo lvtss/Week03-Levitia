@@ -57,11 +57,6 @@ struct ContentView: View {
                     Label("Story", systemImage: "book")
                 }
 
-//            FavoritesView()
-//                .tabItem {
-//                    Label("Favorites", systemImage: "star")
-//                }
-
             GalleryView()
                 .tabItem {
                     Label("Gallery", systemImage: "photo.on.rectangle.angled")
