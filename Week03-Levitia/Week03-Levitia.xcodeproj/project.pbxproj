@@ -7,18 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3D7E3B4929AAEA3B00BAD197 /* Week03_LevitiaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7E3B4829AAEA3B00BAD197 /* Week03_LevitiaApp.swift */; };
 		3D7E3B4B29AAEA3B00BAD197 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7E3B4A29AAEA3B00BAD197 /* ContentView.swift */; };
 		3D7E3B4D29AAEA3C00BAD197 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B4C29AAEA3C00BAD197 /* Assets.xcassets */; };
 		3D7E3B5029AAEA3C00BAD197 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B4F29AAEA3C00BAD197 /* Preview Assets.xcassets */; };
+		3D7E3B5729AAEAB400BAD197 /* AboutHockney.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7E3B5629AAEAB400BAD197 /* AboutHockney.swift */; };
+		3D7E3B5929AAF32D00BAD197 /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7E3B5829AAF32D00BAD197 /* FavoritesView.swift */; };
+		3D7E3B5B29AAF36900BAD197 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7E3B5A29AAF36900BAD197 /* Data.swift */; };
+		3D7E3B5D29AAF38900BAD197 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7E3B5C29AAF38900BAD197 /* GalleryView.swift */; };
+		3D7E3B5F29AAF3BC00BAD197 /* StoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7E3B5E29AAF3BC00BAD197 /* StoryView.swift */; };
+		3D7E3B6229AAF3E600BAD197 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7E3B6129AAF3E600BAD197 /* HomeView.swift */; };
+		3D7E3B6929AB03B700BAD197 /* ValkyBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B6629AB03B700BAD197 /* ValkyBold.ttf */; };
+		3D7E3B6A29AB03B700BAD197 /* ValkyLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B6729AB03B700BAD197 /* ValkyLight.ttf */; };
+		3D7E3B6B29AB03B700BAD197 /* ValkySemibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B6829AB03B700BAD197 /* ValkySemibold.ttf */; };
+		3D7E3B7529AB0D4E00BAD197 /* SuisseIntl-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B7329AB0D4E00BAD197 /* SuisseIntl-Regular.ttf */; };
+		3D7E3B7629AB0D4E00BAD197 /* SuisseIntl-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B7429AB0D4E00BAD197 /* SuisseIntl-Light.ttf */; };
+		3D7E3B7829AB0FDA00BAD197 /* Times Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D7E3B7729AB0FDA00BAD197 /* Times Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3D7E3B4529AAEA3B00BAD197 /* Week03-Levitia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Week03-Levitia.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3D7E3B4829AAEA3B00BAD197 /* Week03_LevitiaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week03_LevitiaApp.swift; sourceTree = "<group>"; };
 		3D7E3B4A29AAEA3B00BAD197 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3D7E3B4C29AAEA3C00BAD197 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D7E3B4F29AAEA3C00BAD197 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3D7E3B5629AAEAB400BAD197 /* AboutHockney.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutHockney.swift; sourceTree = "<group>"; };
+		3D7E3B5829AAF32D00BAD197 /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		3D7E3B5A29AAF36900BAD197 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		3D7E3B5C29AAF38900BAD197 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
+		3D7E3B5E29AAF3BC00BAD197 /* StoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryView.swift; sourceTree = "<group>"; };
+		3D7E3B6129AAF3E600BAD197 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		3D7E3B6629AB03B700BAD197 /* ValkyBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ValkyBold.ttf; sourceTree = "<group>"; };
+		3D7E3B6729AB03B700BAD197 /* ValkyLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ValkyLight.ttf; sourceTree = "<group>"; };
+		3D7E3B6829AB03B700BAD197 /* ValkySemibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ValkySemibold.ttf; sourceTree = "<group>"; };
+		3D7E3B6C29AB069900BAD197 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		3D7E3B7329AB0D4E00BAD197 /* SuisseIntl-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SuisseIntl-Regular.ttf"; sourceTree = "<group>"; };
+		3D7E3B7429AB0D4E00BAD197 /* SuisseIntl-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SuisseIntl-Light.ttf"; sourceTree = "<group>"; };
+		3D7E3B7729AB0FDA00BAD197 /* Times Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Times Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +74,16 @@
 		3D7E3B4729AAEA3B00BAD197 /* Week03-Levitia */ = {
 			isa = PBXGroup;
 			children = (
-				3D7E3B4829AAEA3B00BAD197 /* Week03_LevitiaApp.swift */,
+				3D7E3B6C29AB069900BAD197 /* Info.plist */,
+				3D7E3B5629AAEAB400BAD197 /* AboutHockney.swift */,
 				3D7E3B4A29AAEA3B00BAD197 /* ContentView.swift */,
+				3D7E3B5A29AAF36900BAD197 /* Data.swift */,
+				3D7E3B6129AAF3E600BAD197 /* HomeView.swift */,
+				3D7E3B5E29AAF3BC00BAD197 /* StoryView.swift */,
+				3D7E3B5C29AAF38900BAD197 /* GalleryView.swift */,
+				3D7E3B5829AAF32D00BAD197 /* FavoritesView.swift */,
 				3D7E3B4C29AAEA3C00BAD197 /* Assets.xcassets */,
+				3D7E3B6529AB03B700BAD197 /* ProjectFonts */,
 				3D7E3B4E29AAEA3C00BAD197 /* Preview Content */,
 			);
 			path = "Week03-Levitia";
@@ -65,6 +95,19 @@
 				3D7E3B4F29AAEA3C00BAD197 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3D7E3B6529AB03B700BAD197 /* ProjectFonts */ = {
+			isa = PBXGroup;
+			children = (
+				3D7E3B6629AB03B700BAD197 /* ValkyBold.ttf */,
+				3D7E3B6729AB03B700BAD197 /* ValkyLight.ttf */,
+				3D7E3B6829AB03B700BAD197 /* ValkySemibold.ttf */,
+				3D7E3B7429AB0D4E00BAD197 /* SuisseIntl-Light.ttf */,
+				3D7E3B7329AB0D4E00BAD197 /* SuisseIntl-Regular.ttf */,
+				3D7E3B7729AB0FDA00BAD197 /* Times Regular.ttf */,
+			);
+			path = ProjectFonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +168,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D7E3B7529AB0D4E00BAD197 /* SuisseIntl-Regular.ttf in Resources */,
+				3D7E3B7829AB0FDA00BAD197 /* Times Regular.ttf in Resources */,
+				3D7E3B6B29AB03B700BAD197 /* ValkySemibold.ttf in Resources */,
+				3D7E3B7629AB0D4E00BAD197 /* SuisseIntl-Light.ttf in Resources */,
+				3D7E3B6929AB03B700BAD197 /* ValkyBold.ttf in Resources */,
+				3D7E3B6A29AB03B700BAD197 /* ValkyLight.ttf in Resources */,
 				3D7E3B5029AAEA3C00BAD197 /* Preview Assets.xcassets in Resources */,
 				3D7E3B4D29AAEA3C00BAD197 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +186,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D7E3B5F29AAF3BC00BAD197 /* StoryView.swift in Sources */,
+				3D7E3B6229AAF3E600BAD197 /* HomeView.swift in Sources */,
+				3D7E3B5D29AAF38900BAD197 /* GalleryView.swift in Sources */,
+				3D7E3B5929AAF32D00BAD197 /* FavoritesView.swift in Sources */,
 				3D7E3B4B29AAEA3B00BAD197 /* ContentView.swift in Sources */,
-				3D7E3B4929AAEA3B00BAD197 /* Week03_LevitiaApp.swift in Sources */,
+				3D7E3B5729AAEAB400BAD197 /* AboutHockney.swift in Sources */,
+				3D7E3B5B29AAF36900BAD197 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +324,8 @@
 				DEVELOPMENT_TEAM = AF3UY36MG3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Week03-Levitia/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +355,8 @@
 				DEVELOPMENT_TEAM = AF3UY36MG3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Week03-Levitia/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
